@@ -42,7 +42,7 @@ func main() {
 	}
 	emp2 := Permanent{
 		empId:    456,
-		basicpay: 5600,
+		basicpay: 9000,
 		pf:       1110,
 	}
 
