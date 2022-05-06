@@ -37,7 +37,7 @@ func totalExpense(s []SalaryCalulator) {
 func main() {
 	emp1 := Permanent{
 		empId:    123,
-		basicpay: 6500,
+		basicpay: 8000,
 		pf:       1200,
 	}
 	emp2 := Permanent{
